@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Elestio CI/CD Deployment
+          Learn React with Elestio CI/CD Deployment testing
         </a>
       </header>
     </div>
